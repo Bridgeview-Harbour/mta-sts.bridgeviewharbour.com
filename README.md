@@ -1,7 +1,8 @@
 <p align="center">
   <img width="200" src="./BVH_Badge_Logo.png" alt="Bridgeview Harbour Marina Badge Logo">
 </p>
-# Bridgeview Harbour Marina
+
+# Bridgeview Harbour Marina MTA STS
 Mail Transfer Agent Strict Transport Security Record
 
 ### mta-sts.bridgeviewharbour.com

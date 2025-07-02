@@ -1,4 +1,6 @@
-![Bridgeview Harbour Marina Badge Logo](./BVH_Badge_Logo.png "Bridgeview Harbour Marina Badge Logo")
+<p align="center">
+  <img width="200" src="./BVH_Badge_Logo.png" alt="Bridgeview Harbour Marina Badge Logo">
+</p>
 # Bridgeview Harbour Marina
 Mail Transfer Agent Strict Transport Security Record
 

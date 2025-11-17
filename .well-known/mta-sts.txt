@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: *.outlook.com
-mx: mx.zoho.com
-max_age: 86400
+mx: bridgeviewharbour-com.mail.protection.outlook.com
+max_age: 604800
